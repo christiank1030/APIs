@@ -1,0 +1,17 @@
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    background-color: turquoise;
+    border-radius: 20px;
+    height: 100px;
+    width: 300px;
+    font-size: x-large;
+}
+
+h2 {
+    color: red;
+}
